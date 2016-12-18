@@ -1,0 +1,6 @@
+framework module HDF5Kit {
+  umbrella header "HDF5Kit-umbrella.h"
+
+  export *
+  module * { export * }
+}
