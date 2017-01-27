@@ -9,3 +9,6 @@ Parameter feeder for Metal Performance Shaders' CNN. All you need to do is to pu
 * examples: sample mnist apps
   * mnist_MPS_using_dat: Project using dat files as parameters
   * mnist_MPS_using_hdf5: Project using hdf5 file as parameters
+
+## License
+MIT
